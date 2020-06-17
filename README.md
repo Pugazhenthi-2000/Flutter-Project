@@ -2,7 +2,7 @@
 #Blogapp
 
 This is a technical blog application project
-A new Flutter project.
+
 
 ## Getting Started
 
