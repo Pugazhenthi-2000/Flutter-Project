@@ -1,4 +1,4 @@
-# myapp
+# Blog Application
 #Blogapp
 
 This is a technical blog application project
