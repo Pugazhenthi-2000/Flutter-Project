@@ -1,7 +1,7 @@
 # Blog Application
 #Blogapp
 
-This is a technical blog application project
+This is a blog application project.
 
 
 ## Getting Started
